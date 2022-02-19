@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Pauline Dhenin*
 
-*[Your Cohort, Campus & Date]*
+*Paris Campus, Data Analyst part time Aug 2021*
 
 ## Content
 - [Project Description](#project-description)
