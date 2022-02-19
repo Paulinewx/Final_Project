@@ -1,105 +1,91 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to your Final Project!
+# Title of My Project
+*[Your Name]*
+
+*[Your Cohort, Campus & Date]*
 
 ## Content
 - [Project Description](#project-description)
-- [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
+- [Hypotheses / Questions](#hypotheses-/-questions)
+- [Dataset](#dataset)
+- [Cleaning](#cleaning)
+- [Analysis](#analysis)
+- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [Workflow](#workflow)
+- [Organization](#organization)
+- [Links](#links)
 
 <a name="project-description"></a>
 
 ## Project Description
-In this project, you will pick a topic of your choosing and perform an end-to-end analysis using what you have learned. You will apply the statistical or machine learning techniques we have learned over the last few weeks and present your results to all of us as well as to the jury for the HackShow.
+Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
 
-<a name="project-goals"></a>
+<a name="hypotheses-/-questions"></a>
 
-## Project Goals
-* Ask interesting and thoughful questions and find the data to answer them.
-* Focus on improving in areas that are hard for you or learning more about something with which you feel comfortable. 
-* Apply the statistical and/or machine learning techniques we have learned.
-* Create useful and clear graphs.
-* Present your insights in a thoughtful, clear and accurate way.
+## Hypotheses / Questions
+* What data/business/research/personal question you would like to answer? 
+* What is the context for the question and the scientific or business application? 
+* What are the hypotheses you would like to test in order to answer your question?  
+Frame your hypothesis with statistical/data language (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 
-<a name="requirements"></a>
+<a name="dataset"></a>
 
-## Requirements
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory.
-* You **CANNOT CODE** until you project is planned.
-* Create a *.gitignore* file and include it in your repository. 
-* You may be on team (3 people max) or work on your own.
-* You can include ML or statistics, but it is not required to do so, as long as you have a rigorous analysis.
-* You may use the data from your last project or from past projects.
+## Dataset
+* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
+* Did you build your own datset? If so, did you use an API? If so, provide the scripts in your repo.
+* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
+* If the question cannot be answered with the available data, why not? What data would you need to answer it?
 
-<a name="deliverables"></a>
+<a name="cleaning"></a>
 
-## Deliverables
-* A well-commented notebook with your analysis.
-* A 5 minute presentation in the auditorium (+2 minutes of questions)
-* A 5 minute presentation for the jury (+5 minutes of questions)
-* Repository with your workflow, documentation, and code. Even if you are working alone, you need to keep good coding practices!
-* The database where you have kept your data.  
+## Cleaning
+Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did, etc, as well as your thinking process.
 
-<a name="schedule"></a>
+<a name="analysis"></a>
 
-## Schedule
-*Wednesday*
-* Choose your topic and to work as a team or individually.
+## Analysis
+* Overview the general steps you will go through to analyze your data in order to test your hypothesis.
+* Document each step of your data exploration and analysis.
+* Include charts to demonstrate the effect of your work. 
+* If you use ML in your final project, describe your feature selection process.
 
-*Thursday*
-* Create your repository and README overview (template provided).
-* Choose the dataset(s) you would like to use.
-* Teacher validation
+<a name="model-training-and-evaluation"></a>
 
-**NO CODE UNTIL HERE**
+## Model Training and Evaluation
+*Include this section only if you chose to include ML in your project.*
+* Describe how you trained your model, the results you obtained, and how you evaluated those results.
 
-*Monday morning*
-* Database schema validation.
+<a name="conclusion"></a>
 
-*Monday*
-* Data in the database.
+## Conclusion
+* Summarize your results. What do they mean?
+* What can you say about your hypotheses?
+* Interpret your findings in terms of the human-understandable question you try to answer.
 
-*Tuesday evening* 
-* Analysis validation.
+<a name="future-work"></a>
 
-*Wednesday* 
-* First rehearsal.
+## Future Work
+Address any questions you were unable to answer, or any next steps or future extensions to your project.
 
-*Thursday morning*
-* General rehearsal.
+<a name="workflow"></a>
 
-*Thursday evening*
-* Presentation!
+## Workflow
+Outline the workflow you used in your project. What were the steps?
+How will you test the success of your analysis or algorithm?
 
-*Friday morning*
-* Jury presentation: they will select their two prefered projects.
-* We will vote for the third project to be presented at Friday's HackShow.
+<a name="organization"></a>
 
-*Friday evening. HACKSHOW!*
-* Auditorium presentation at 18:00.
-* Vote for the winner of the HackShow.
+## Organization
+How did you organize yourself? Did you use any tools?
 
-<a name="presentation"></a>
+<a name="links"></a>
 
-## Presentation
-* 5 minute presentation in the auditorium (+2 minutes of questions)
-* 5 minute presentation for the jury (+5 minutes of questions)
+## Links
+Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-<a name="tips-&-tricks"></a>
-
-## Tips & Tricks
-* Organize yourself (don't get lost!). 
-* Respect deadlines.
-* Ask for help but remember: Google is your friend!
-* Define a simple approach first. You never know how the data can betray you 😉.
-* Document yourself. Learn about the problem and what research has been done before.
-* Before making a graph, think about what you want it to represent.
-* Don't force yourself to use techniques if they are not helpful for your objective.
-* If using machine learning, remember:
-  * This is an iterative process. Try your best to improve your model performance by:
-    * Trying different models and select one that is the simplest yet produces the best results. Make sure you know what metric you are using you are defining 'best' and why!
-    * Trying different hyperparameters and see if they improve the result.
+[Repository](https://github.com/)  
+[Slides](https://slides.com/)  
+[Trello](https://trello.com/en)  
